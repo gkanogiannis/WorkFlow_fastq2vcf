@@ -1,0 +1,11 @@
+{
+  "alignment_DArT_WF.genome_ref": "RefSeq.fa",
+  "alignment_DArT_WF.workDir": "workingDir",
+  "alignment_DArT_WF.log": "workingDir/log",
+  "alignment_DArT_WF.tmp": "workingDir/tmp",
+  "alignment_DArT_WF.inputSamplesFile": "samples_names_fastq.txt",
+  "alignment_DArT_WF.threads": "4",
+  "alignment_DArT_WF.bwa": "/bin/bwa",
+  "alignment_DArT_WF.samtools": "/bin/samtools",
+  "alignment_DArT_WF.qualimap": "/bin/qualimap"
+}

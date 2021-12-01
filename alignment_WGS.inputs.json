@@ -1,0 +1,15 @@
+{
+  "alignment_WGS_WF.genome_ref": "RefSeq.fa",
+  "alignment_WGS_WF.workDir": "workingDir",
+  "alignment_WGS_WF.log": "workingDir/log",
+  "alignment_WGS_WF.tmp": "workingDir/tmp",
+  "alignment_WGS_WF.inputSamplesFile": "samples_names.txt",
+  "alignment_WGS_WF.inputFastqsFile": "samples_fastq.txt",
+  "alignment_WGS_WF.threads": "4",
+  "alignment_WGS_WF.bwa": "/bin/bwa",
+  "alignment_WGS_WF.bwa_multifastq_script": "bwa_multifastq_script.sh",
+  "alignment_WGS_WF.samtools": "/bin/samtools",
+  "alignment_WGS_WF.java": "/bin/java",
+  "alignment_WGS_WF.picard": "/bin/picard.jar",
+  "alignment_WGS_WF.qualimap": "/bin/qualimap"
+}

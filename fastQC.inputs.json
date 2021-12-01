@@ -1,0 +1,8 @@
+{
+  "fastQC_WF.workDir": "workingDir",
+  "fastQC_WF.log": "workingDir/log",
+  "fastQC_WF.tmp": "workingDir/tmp",
+  "fastQC_WF.inputSamplesFile": "samples_names.txt",
+  "fastQC_WF.inputFastqsFile": "samples_fastq.txt",
+  "fastQC_WF.fastqc": "/bin/fastqc"
+}

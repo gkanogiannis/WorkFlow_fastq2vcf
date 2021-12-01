@@ -1,0 +1,18 @@
+{
+  "VariantDiscovery_WF.genome_ref": "RefSeq.fa",
+  "VariantDiscovery_WF.listChromosomeFile": "RefSeq.chromosomes.list",
+  "VariantDiscovery_WF.listChromosomeLengthFile": "RefSeq.chromosomes.length",
+  "VariantDiscovery_WF.listScaffoldFile": "RefSeq.scaffolds.list",
+  "VariantDiscovery_WF.listScaffoldLengthFile": "RefSeq.scaffolds.length",
+  "VariantDiscovery_WF.withScaffolds": "false",
+  "VariantDiscovery_WF.inputSamplesFile": "samples_names_bam.txt",
+  "VariantDiscovery_WF.workDir": "workingDir",
+  "VariantDiscovery_WF.log": "workingDir/log",
+  "VariantDiscovery_WF.tmp": "workingDir/tmp",
+  "VariantDiscovery_WF.basename": "basename",
+  "VariantDiscovery_WF.threads": "40",
+  "VariantDiscovery_WF.java": "/bin/java",
+  "VariantDiscovery_WF.picard": "/bin/picard.jar",
+  "VariantDiscovery_WF.gatk": "/bin/gatk",
+  "VariantDiscovery_WF.tabix": "/bin/tabix"
+}

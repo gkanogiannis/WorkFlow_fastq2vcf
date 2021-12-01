@@ -1,0 +1,13 @@
+{
+	"alignment_GBS_WF.genome_ref": "RefSeq.fa",
+	"alignment_GBS_WF.workDir": "workingDir",
+	"alignment_GBS_WF.log": "workingDir/log",
+	"alignment_GBS_WF.tmp": "workingDir/tmp",
+	"alignment_GBS_WF.inputSamplesFile": "samples_names.txt",
+	"alignment_GBS_WF.inputFastqsFile": "samples_fastq.txt",
+	"alignment_GBS_WF.threads": "4",
+	"alignment_GBS_WF.bwa": "/bin/bwa",
+	"alignment_GBS_WF.bwa_multifastq_script": "bwa_multifastq_script.sh",
+	"alignment_GBS_WF.samtools": "/bin/samtools",
+	"alignment_GBS_WF.qualimap": "/bin/qualimap"
+}
