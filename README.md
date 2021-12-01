@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/433710013.svg)](https://zenodo.org/badge/latestdoi/433710013)
+
 # WorkFlow_fastq2vcf
  A Cromwell workflow to call and filter variants from sequencing data.
 

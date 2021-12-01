@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Gkanogiannis
+    given-names: Anestis
+    orcid: https://orcid.org/0000-0002-6441-0688
+title: "WorkFlow_fastq2vcf. A Cromwell workflow to call and filter variants from sequencing data."
+version: 1.0.0
+doi: 10.5281/zenodo.5746465
+date-released: 2021-12-01
