@@ -8,3 +8,4 @@ title: "WorkFlow_fastq2vcf. A Cromwell workflow to call and filter variants from
 version: 1.0.0
 doi: 10.5281/zenodo.5746465
 date-released: 2021-12-01
+url: "https://github.com/gkanogiannis/WorkFlow_fastq2vcf"
